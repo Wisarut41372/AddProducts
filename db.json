@@ -1,0 +1,15 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "nameproduct": "addd",
+      "price": "400",
+      "detail": "ddd",
+      "picture": "https://tse3.mm.bing.net/th?id=OIP.cWFY-f2HWyewx55rTukOOgHaEK&pid=Api&P=0&w=273&h=154"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
